@@ -1,5 +1,17 @@
 ## Happy Web (React.js && Typescript)
 
+### 😀 Happy
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Happy" src="https://github.com/vbeloti/happy-web/blob/master/.github/images/happy-1.jpg?raw=true" />
+</p>
+
+### 💻 Link
+
+<a href="https://happy.vercel.app/">
+  https://happy.vercel.app
+</a>
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Figma:
@@ -7,12 +19,6 @@ O layout da aplicação está disponível no Figma:
 <a href="https://www.figma.com/file/ddVl9AGRBQ4PYRZS5i5l16/Happy-Web?node-id=0%3A1">
   <img alt="Layout" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
-
-### 😀 Happy
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Happy" src="https://github.com/vbeloti/happy-web/blob/master/.github/images/happy-1.jpg?raw=true" />
-</p>
 
 ## 🛠 Tecnologias
 
