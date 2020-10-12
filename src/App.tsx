@@ -22,7 +22,7 @@ function App() {
           </div>
 
           <a href="/" className="enter-app">
-            <FiArrowRight />
+            <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6)" />
           </a>
         </main>
       </div>
